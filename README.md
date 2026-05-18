@@ -1,6 +1,6 @@
 # AI Middleware Application
 
-![Application Screenshot](screenshot.PNG)
+![Application Screenshot](./screenshot.PNG)
 
 This project is a full-stack application featuring a React frontend and a Python (FastAPI) backend with MySQL database integration.
 
